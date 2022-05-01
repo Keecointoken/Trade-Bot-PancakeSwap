@@ -1,11 +1,11 @@
 [![Keecoin Logo](https://keecoin.io/assets/image/keecointoken-200.png "Keecoin Logo")](https://keecoin.io/ "Keecoin Logo")
 
-## 🚀 KeeCoin Sniper Bot Custom Token 🚀
+## 🚀 KeeCoin Trade Bot Custom Token 🚀
 
 
 ### 💡 About The Project
 
-The creator members of KeeCoin Token developed SniperBot PancakeSwap for the automatic SELL of a custom token with % profit set by the user.
+The creator members of KeeCoin Token developed Bot Trade PancakeSwap for the automatic SELL of a custom token with % profit set by the user.
 The software is free and the project is supported by a 0.7% fee on the profit.
 
 =======================================
@@ -47,7 +47,7 @@ Example run :
 
 c:\> Keecoin-bot.exe
 
-- Project Profi Token : SHIBAINU
+- Project Profit Token : SHIBAINU
 - Check connection BSC :  True
 - Amount BNB 15
 - Token Price $ :  0.792429841296415185599223649649
