@@ -1,0 +1,12 @@
+{
+    "bsc": "https://bsc-dataseed.binance.org/",
+    "tokenstart": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+    "tokenswap": "Token for trading",
+    "amountdollar": 100,
+    "amounttoken": 500,
+    "checktime":30,
+    "profit": 5,
+    "lose": 10,
+    "wallet":"Your wallet",
+    "privatekey":"Your PrivateKey"
+}
