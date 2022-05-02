@@ -82,3 +82,4 @@ Our project is still in beta. Any bug report communicated through our social net
 #### Antivirus
 
 Some antivirus may detect the .exe as a Trojan. Disable or add exception
+https://www.virustotal.com/gui/url/9be15720da84511a05cd5225462e2b1793bac5920e88d77b7a2d402734a17eb8?nocache=1
