@@ -78,3 +78,7 @@ Frontrun and Sandwich soon....
 #### ⚠️ Disclaimer
 
 Our project is still in beta. Any bug report communicated through our social networks is a help.
+
+#### Antivirus
+
+Some antivirus may detect the .exe as a Trojan. Disable or add exception
