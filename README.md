@@ -1,6 +1,6 @@
 [![Keecoin Logo](https://keecoin.io/assets/image/keecointoken-200.png "Keecoin Logo")](https://keecoin.io/ "Keecoin Logo")
 
-## 🚀 KeeCoin Trade Bot Custom Token 🚀
+## 🚀 KeeCoin Trade Bot Custom Token BSC 🚀
 
 
 ### 💡 About The Project
